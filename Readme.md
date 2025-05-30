@@ -192,6 +192,10 @@ The project includes various visualizations and analysis results:
 - Attention mechanism visualizations
 - Data augmentation examples
 
+## gui 
+![Alt text](images/Screenshot 2025-04-02 224834.png)
+![Alt text](images/Screenshot 2025-04-02 224923.png)
+
 ## References
 - DIAT-MSAT Micro-Doppler Signature Dataset: https://ieee-dataport.org/documents/diat-msat-micro-doppler-signature-dataset-small-unmanned-aerial-vehicle-suav
 - Sih Hackathon 2025 Problem Statement
