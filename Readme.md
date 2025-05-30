@@ -194,7 +194,7 @@ The project includes various visualizations and analysis results:
 
 ## gui 
 ![Alt text](https://github.com/shrey423/Drone-Bird-Micro-doppler-classification/blob/main/images/Screenshot%202025-04-02%20224834.png?raw=true)
-![Alt text](images/Screenshot 2025-04-02 224923.png)
+![Alt text](https://github.com/shrey423/Drone-Bird-Micro-doppler-classification/blob/main/images/Screenshot%202025-04-02%20224923.png?raw=true)
 
 ## References
 - DIAT-MSAT Micro-Doppler Signature Dataset: https://ieee-dataport.org/documents/diat-msat-micro-doppler-signature-dataset-small-unmanned-aerial-vehicle-suav
