@@ -1,0 +1,16 @@
+==== Prediction Results ====
+Image: figure5.jpg
+Detailed Class: Bird+2_Blade_rotor_2 (38.85% confidence)
+Binary Class: Bird (67.71% confidence)
+
+All class probabilities:
+2_blade_rotor_1: 2.09%
+2_blade_rotor_2: 0.44%
+3_long_blades_rotor: 0.76%
+3_short_blade_rotor_1: 0.43%
+3_short_blade_rotor_2: 0.35%
+Bird: 27.61%
+Bird+2_Blade_rotor_1: 27.99%
+Bird+2_Blade_rotor_2: 38.85%
+drone_1: 0.31%
+drone_2: 1.18%
