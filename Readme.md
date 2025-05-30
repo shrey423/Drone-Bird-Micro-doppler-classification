@@ -193,7 +193,7 @@ The project includes various visualizations and analysis results:
 - Data augmentation examples
 
 ## gui 
-![Alt text](images/Screenshot 2025-04-02 224834.png)
+![Alt text](https://github.com/shrey423/Drone-Bird-Micro-doppler-classification/blob/main/images/Screenshot%202025-04-02%20224834.png?raw=true)
 ![Alt text](images/Screenshot 2025-04-02 224923.png)
 
 ## References
