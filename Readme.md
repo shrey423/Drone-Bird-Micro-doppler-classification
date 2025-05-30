@@ -215,4 +215,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 5. Implement ensemble learning approaches
 
 ## Contact
-For any questions or collaboration opportunities, please contact [Your Email]
+For any questions or collaboration opportunities, please contact shreyraj12210@gmail.com
